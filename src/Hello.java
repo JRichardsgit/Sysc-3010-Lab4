@@ -12,9 +12,11 @@ public class Hello {
 	public void methodA() { }
 
 	public void methodB(void) { 
-		this is a change
+		this is a change1
 	}
 
-	public void methodC(void) { }
+	public void methodC(void) { 
+			
+	}
 
 }
